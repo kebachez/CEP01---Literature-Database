@@ -132,4 +132,4 @@ The group library will continue to grow as we conduct additional research throug
 <https://github.com/kebachez/CEP01---Literature-Database.git> \
 
 **GitHub Page:**\
-\[INSERT GITHUB PAGE LINK HERE\]
+<https://kebachez.github.io/CEP01---Literature-Database/>
